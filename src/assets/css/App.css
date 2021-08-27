@@ -1,0 +1,12 @@
+.fondo{
+  background: linear-gradient(188.99deg, #FFFFFF 0%, rgba(112, 197, 116, 0.52) 40.76%, #004303 93.17%);
+  font-size: 18px;
+  font-family: 'Arima Madurai', cursive;
+}
+
+.standard-logo img{
+  width: 36px;
+  height: 52px;
+  margin-left: 780px;
+  margin-top: 80px;
+}
